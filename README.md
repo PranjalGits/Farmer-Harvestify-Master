@@ -59,6 +59,7 @@ Note that, for now it only supports following crops
 **Create the Environment**
 1) conda create -p venv1 python==3.6.12 -y
 2) conda activate D:/Harvestify-Master/venv1
-3) cd app
-4) python app_farm.py
+3) pip install -r requirements.txt
+4) cd app
+5) python app_farm.py
 
