@@ -66,7 +66,7 @@ Note that, for now it only supports following crops
 2) conda activate D:/Farmer-Harvestify-Master/venv1
 3) pip install -r requirements.txt
 4) cd app
-5) python app_farm.py
+5) python app_farm.py or python app.py
 
 - **Note:** Run this command on vs-code terminal(command prompt)
  
